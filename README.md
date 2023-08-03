@@ -6,3 +6,5 @@ This Repo is about Deploying FastAPi on Aws Lambda
 
 AWS Lambda is a serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you.
 
+
+![sam-layers-diag](https://github.com/AbdulSami455/API-Deployment-on-AwsLambda/assets/111019622/132b9f19-70a4-4617-b5c2-0b7838d02362)

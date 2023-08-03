@@ -8,7 +8,7 @@ app=FastAPI()
 
 async def home():
     return {"Message":"Hello Everyone "}
-
+#
 @app.get("/list")
 
 def listall():

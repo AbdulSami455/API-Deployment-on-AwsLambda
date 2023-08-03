@@ -17,3 +17,7 @@ We use Mangum so that Lambda can find the handler and call the correct endpoints
 1. pip3 install -t dep -r requirements.txt
 2. (cd dep; zip ../lambda_artifact.zip -r .)
 3. zip lambda_artifact.zip -u main.py
+
+
+𝙐𝙥𝙡𝙤𝙖𝙙 𝙩𝙝𝙚 .𝙯𝙞𝙥 𝙛𝙞𝙡𝙚 𝙩𝙤 𝙇𝙖𝙢𝙗𝙙𝙖 𝙛𝙧𝙤𝙢 𝙩𝙝𝙚 𝘼𝙬𝙨 𝘾𝙤𝙣𝙨𝙤𝙡𝙚 𝙩𝙤 𝙖 𝙇𝙖𝙢𝙗𝙙𝙖 𝙁𝙪𝙣𝙘𝙩𝙞𝙤𝙣.
+
